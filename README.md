@@ -45,7 +45,7 @@ I used Microsoft **Power BI** to analyze the dataset and build a dashboard, perf
 
 
 
-⦿ A total of  **86.82%** of trips were **on-time** , **7.24%** trips were **delayed** and **5.94%** were **cancelled**. **Weather conditions**, **signal failures** and **technical issues** were the reasons for most of the delays
+⦿ A total of  **86.82%** of trains were **on-time** , **7.24%** trains were **delayed** and **5.94%** were **cancelled**. **Weather conditions**, **signal failures** and **technical issues** were the reasons for most of the delays
 
 ![on_time](https://github.com/KamalBanik/Railway_operation_traveler_behavior_analysis/assets/124190570/5fc69854-091d-4b1c-848e-20aad62ff953)
 
