@@ -18,7 +18,7 @@ I used Microsoft **Power BI** to analyze the dataset and build a dashboard, perf
 **Key insights**
 
 Most popular route was Manchester Piccadilly to Liverpool Lime Street, with a trip count of 4628
-
+![Untitled](https://github.com/KamalBanik/Railway_operation_traveler_behavior_analysis/assets/124190570/7ac93517-039e-429d-92e3-9bbc3470697a)
 
 Peak travel times were morning(06:00) and evening(18:00) with the highest numbers of departures occurring during these hours
 
