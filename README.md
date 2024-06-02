@@ -1,3 +1,8 @@
+**Maven Rail Challenge**
+
+This project is a part of the Maven Challenge by Maven analytics.
+https://mavenanalytics.io/challenges
+
 **About the dataset:**
 
 The data contains mock train ticket sales for National Rail in the UK, from January to April 2024, including details on the type of ticket, the date & time for each journey, the departure & arrival stations, the ticket price, and more.
