@@ -3,9 +3,11 @@
 This project is a part of the Maven Challenge by Maven analytics.
 https://mavenanalytics.io/challenges
 
+
 **About the dataset:**
 
 The data contains mock train ticket sales for National Rail in the UK, from January to April 2024, including details on the type of ticket, the date & time for each journey, the departure & arrival stations, the ticket price, and more.
+
 
 **Objective:**
 
@@ -18,6 +20,7 @@ Analyze revenue from different ticket types and classes
 Diagnose on-time performance and contributing factors
 
 I used Microsoft **Power BI** to analyze the dataset and build a dashboard, performing various data cleaning and transformation steps to meet the project requirements.
+
 
 
 **Key insights**
@@ -47,6 +50,8 @@ A total of  **86.82%** of trips were **on-time** , **7.24%** trips were **delaye
 ![on_time](https://github.com/KamalBanik/Railway_operation_traveler_behavior_analysis/assets/124190570/5fc69854-091d-4b1c-848e-20aad62ff953)
 
 ![delay_reason](https://github.com/KamalBanik/Railway_operation_traveler_behavior_analysis/assets/124190570/511de90d-b904-4bd2-9cee-64548e7ad925)
+
+
 
 
 
