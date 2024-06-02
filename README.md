@@ -18,16 +18,20 @@ I used Microsoft **Power BI** to analyze the dataset and build a dashboard, perf
 **Key insights**
 
 Most popular route was Manchester Piccadilly to Liverpool Lime Street, with a trip count of 4628
+
 ![route](https://github.com/KamalBanik/Railway_operation_traveler_behavior_analysis/assets/124190570/d34f6bd6-d5f3-413d-b39c-6775a37e924e
 
 Peak travel times were morning(06:00) and evening(18:00) with the highest numbers of departures occurring during these hours
+
 ![peak_time](https://github.com/KamalBanik/Railway_operation_traveler_behavior_analysis/assets/124190570/6a772060-0b9b-4da6-8d3a-78bf24520b10)
 
 
 Highest revenue was from Advance Ticket Type with $309K and Standard Ticket Class with $593K
+
 ![ticket_type](https://github.com/KamalBanik/Railway_operation_traveler_behavior_analysis/assets/124190570/99539cd7-9fe0-4fea-b28a-c6b88bb8ace8)
 
 A total of  86.82% of trips were on-time , 7.24% trips were delayed and 5.94% were cancelled. Weather conditions, signal failures and technical issues were the reasons for most of the delays
+
 ![on_time](https://github.com/KamalBanik/Railway_operation_traveler_behavior_analysis/assets/124190570/5fc69854-091d-4b1c-848e-20aad62ff953)
 
 ![delay_reason](https://github.com/KamalBanik/Railway_operation_traveler_behavior_analysis/assets/124190570/511de90d-b904-4bd2-9cee-64548e7ad925)
